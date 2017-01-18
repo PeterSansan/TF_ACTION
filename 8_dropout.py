@@ -5,7 +5,9 @@ import tensorflow as tf
 sess = tf.InteractiveSession()
 a = tf.get_variable('a',shape=[2,5])
 b = a
+c = a
 a_drop = tf.nn.dropout(a,0.8)
+c_drop = tf.nn.dropout(c,1)
 sess.run(tf.initialize_all_variables())
 
 print(sess.run(b))
@@ -15,3 +17,5 @@ print(sess.run(b))
 print(sess.run(a_drop))
 #[[ 0.35834879 -0.83593333 -1.43294692  1.10762548 -0.        ]
 # [-0.37130421 -0.          0.          0.94931257  0.93668592]]
+
+print(sess.run(c_drop))

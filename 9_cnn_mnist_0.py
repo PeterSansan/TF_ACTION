@@ -107,7 +107,7 @@ for i in range(100000):
     sys.stdout.flush() # 刷新文件流
     print acc_score/10000
 
-  train_step.run(feed_dict={x: batch[0], y_: batch[1], keep_prob: 0.5})
+  train_step.run(feed_dict={x: batch[0], y_: batch[1], keep_prob: 0.5}) # 这才是重点
 
 #验证最终的准确率
 acc_score = 0.0
