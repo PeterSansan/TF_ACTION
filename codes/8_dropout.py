@@ -8,7 +8,7 @@ b = a
 c = a
 a_drop = tf.nn.dropout(a,0.8)
 c_drop = tf.nn.dropout(c,1)
-sess.run(tf.initialize_all_variables())
+sess.run(tf.global_variables_initializer())
 
 print(sess.run(b))
 #[[ 0.28667903 -0.66874665 -1.14635754  0.88610041 -0.55590457]
