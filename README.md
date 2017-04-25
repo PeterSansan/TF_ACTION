@@ -9,7 +9,7 @@
 
 ###  章1：TensorFlow基本语法 
 
-- TF基本操作0([web]()|[note](./notes/1_basic_operations.ipynb)|[code](./codes/1/))
+- TF基本操作0([web](http://petersansan.top/web/1_basic_operations.html)|[note](./notes/1_basic_operations.ipynb)|[code](./codes/1/))
 
 ### 章2：简单模型
 
@@ -19,7 +19,7 @@
 
 - [多层感知机手写识别](./notes/3_multilayer_perceptron.ipynb)
 
-  ​
+  
 
 
 值得关注的python几个模块：
