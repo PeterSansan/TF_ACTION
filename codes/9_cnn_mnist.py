@@ -30,7 +30,7 @@ import tensorflow as tf
 
 flags = tf.app.flags
 FLAGS = flags.FLAGS
-flags.DEFINE_string('data_dir', './MNIST_data/', 'Directory for storing data') # 第一次启动会下载文本资料，放在/tmp/data文件夹下
+flags.DEFINE_string('data_dir', './../mnist/MNIST_data/', 'Directory for storing data') # 第一次启动会下载文本资料，放在/tmp/data文件夹下
 
 print(FLAGS.data_dir)
 mnist = input_data.read_data_sets(FLAGS.data_dir, one_hot=True)

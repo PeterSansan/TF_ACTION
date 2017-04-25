@@ -2,7 +2,7 @@
 
 from tensorflow.examples.tutorials.mnist import input_data
 import time
-mnist = input_data.read_data_sets('MNIST_data', one_hot=True)
+mnist = input_data.read_data_sets('./../mnist/MNIST_data', one_hot=True)
 
 import sys
 import tensorflow as tf
