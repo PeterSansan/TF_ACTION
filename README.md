@@ -1,4 +1,6 @@
 # TensorFlow实践
+该TensorFlow代码是在1.1.0版本下运行的
+
 ### 章0：TensorFlow初体验
 
 - [检查TensorFlow-gpu版安装是否成功](./codes/0/0_check_gpu.py)
@@ -7,11 +9,17 @@
 
 ###  章1：TensorFlow基本语法 
 
-- TF基本操作0([note](./notes/1_basic_operations.ipynb)|[code](./codes/1/))
+- TF基本操作0([web]()|[note](./notes/1_basic_operations.ipynb)|[code](./codes/1/))
 
 ### 章2：简单模型
 
 - [最近邻算法手写识别](./notes/2_nearest_neighbor.ipynb)
+
+### 章3：神经网络
+
+- [多层感知机手写识别](./notes/3_multilayer_perceptron.ipynb)
+
+  ​
 
 
 值得关注的python几个模块：
