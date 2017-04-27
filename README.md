@@ -18,8 +18,9 @@
 ### 章3：神经网络
 
 - [多层感知机手写识别](./notes/3_multilayer_perceptron.ipynb)
+- [LSTM手写识别](https://github.com/PeterSansan/TF_ACTION/blob/master/notes/3_recurrent_network.ipynb)|[另一类似代码](https://github.com/PeterSansan/TF_ACTION/blob/master/notes/3_recurrent_network_1.ipynb)
+- [BiLSTM手写识别](https://github.com/PeterSansan/TF_ACTION/blob/master/notes/3_bidirectional_rnn.ipynb)
 
-  
 
 
 值得关注的python几个模块：
