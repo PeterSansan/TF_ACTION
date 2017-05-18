@@ -24,5 +24,9 @@
 - [自动编码器](https://github.com/PeterSansan/TF_ACTION/blob/master/notes/3_autoencoder.ipynb)
 - [动态RNN](https://github.com/PeterSansan/TF_ACTION/blob/master/notes/3_dynamic_rnn.ipynb)
 
+### 章4：通用功能
+
+- [TF中模型的保存与加载](./notes/4_save_restore_model.ipynb)
+
 值得关注的python几个模块：
 - psutil
