@@ -21,8 +21,8 @@
 - [LSTM手写识别](https://github.com/PeterSansan/TF_ACTION/blob/master/notes/3_recurrent_network.ipynb)|[另一类似代码](https://github.com/PeterSansan/TF_ACTION/blob/master/notes/3_recurrent_network_1.ipynb)
 - [BiLSTM手写识别](https://github.com/PeterSansan/TF_ACTION/blob/master/notes/3_bidirectional_rnn.ipynb)
 - [CNN手写识别](https://github.com/PeterSansan/TF_ACTION/blob/master/notes/3_convolutional_network.ipynb)
-
-
+- [自动编码器](https://github.com/PeterSansan/TF_ACTION/blob/master/notes/3_autoencoder.ipynb)
+- [动态RNN](https://github.com/PeterSansan/TF_ACTION/blob/master/notes/3_dynamic_rnn.ipynb)
 
 值得关注的python几个模块：
 - psutil
