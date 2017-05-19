@@ -28,7 +28,7 @@
 
 - [TF中模型的保存与加载](./notes/4_save_restore_model.ipynb)
 - [Tensorboard-softmax可视化](./notes/4_tensorboard_basic.ipynb)
-- [Tensorboard-多层感知器可视化](./notes/4_tensorboard_advanced.ipyn)
+- [Tensorboard-多层感知器可视化](./notes/4_tensorboard_advanced.ipynb)
 
 值得关注的python几个模块：
 - psutil
