@@ -14,6 +14,7 @@
 ### 章2：简单模型
 
 - [最近邻算法手写识别](./notes/2_nearest_neighbor.ipynb)
+- 线性回归和逻辑回归([code1](./notes/2_linear_and_logistic_regression.ipynb)|[code2](./notes/2_linear_and_logistic_regression_1.ipynb))
 
 ### 章3：神经网络
 
