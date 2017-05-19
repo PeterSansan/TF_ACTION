@@ -18,7 +18,7 @@
 
 ### 章3：神经网络
 
-- [多层感知机手写识别](./notes/3_multilayer_perceptron.ipynb)
+- 多层感知机手写识别([code1](./notes/3_multilayer_perceptron.ipynb)|[code2](./notes/3_multilayer_perceptron_1.ipynb))
 - [LSTM手写识别](https://github.com/PeterSansan/TF_ACTION/blob/master/notes/3_recurrent_network.ipynb)|[另一类似代码](https://github.com/PeterSansan/TF_ACTION/blob/master/notes/3_recurrent_network_1.ipynb)
 - [BiLSTM手写识别](https://github.com/PeterSansan/TF_ACTION/blob/master/notes/3_bidirectional_rnn.ipynb)
 - [CNN手写识别](https://github.com/PeterSansan/TF_ACTION/blob/master/notes/3_convolutional_network.ipynb)
@@ -34,6 +34,8 @@
 值得关注的python几个模块：
 - psutil
 
-感谢：本教程大部分在他人教程的基础上修改，其中包括的[aymericdamien/TensorFlow-Examples](https://github.com/aymericdamien/TensorFlow-Examples)，TensorFlow官网，
+感谢：本教程大部分在他人教程的基础上修改，其中包括的[aymericdamien/TensorFlow-Examples](https://github.com/aymericdamien/TensorFlow-Examples)，TensorFlow官网，[adeshpande3/Tensorflow-Programs-and-Tutorials](https://github.com/adeshpande3/Tensorflow-Programs-and-Tutorials)
+
+
 
 
