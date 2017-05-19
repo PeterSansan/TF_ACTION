@@ -27,6 +27,12 @@
 ### 章4：通用功能
 
 - [TF中模型的保存与加载](./notes/4_save_restore_model.ipynb)
+- [Tensorboard-softmax可视化](./notes/4_tensorboard_basic.ipynb)
+- [Tensorboard-多层感知器可视化](./notes/4_tensorboard_advanced.ipyn)
 
 值得关注的python几个模块：
 - psutil
+
+感谢：本教程大部分在他人教程的基础上修改，其中包括的[aymericdamien/TensorFlow-Examples](https://github.com/aymericdamien/TensorFlow-Examples)，TensorFlow官网，
+
+
