@@ -28,8 +28,15 @@
 ### 章4：通用功能
 
 - [TF中模型的保存与加载](./notes/4_save_restore_model.ipynb)
+
 - [Tensorboard-softmax可视化](./notes/4_tensorboard_basic.ipynb)
+
 - [Tensorboard-多层感知器可视化](./notes/4_tensorboard_advanced.ipynb)
+
+### 章5：NLP实践
+
+- [Character Level RNN(字母级RNN(未完成))](./notes/5_character_level_rnn.ipynb)
+
 
 值得关注的python几个模块：
 - psutil
