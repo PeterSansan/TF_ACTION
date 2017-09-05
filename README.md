@@ -18,12 +18,12 @@
 
 ### 章3：神经网络
 
-- 多层感知机手写识别([code1](./notes/3_multilayer_perceptron.ipynb)|[code2](./notes/3_multilayer_perceptron_1.ipynb))
-- [LSTM手写识别](https://github.com/PeterSansan/TF_ACTION/blob/master/notes/3_recurrent_network.ipynb)|[另一类似代码](https://github.com/PeterSansan/TF_ACTION/blob/master/notes/3_recurrent_network_1.ipynb)
-- [BiLSTM手写识别](https://github.com/PeterSansan/TF_ACTION/blob/master/notes/3_bidirectional_rnn.ipynb)
-- [CNN手写识别](https://github.com/PeterSansan/TF_ACTION/blob/master/notes/3_convolutional_network.ipynb)
-- [自动编码器](https://github.com/PeterSansan/TF_ACTION/blob/master/notes/3_autoencoder.ipynb)
-- [动态RNN](https://github.com/PeterSansan/TF_ACTION/blob/master/notes/3_dynamic_rnn.ipynb)
+- 多层感知机([code1](./notes/3_multilayer_perceptron.ipynb)|[code2](./notes/3_multilayer_perceptron_1.ipynb))：用于手写识别MNIST分类
+- [LSTM手写识别](https://github.com/PeterSansan/TF_ACTION/blob/master/notes/3_recurrent_network.ipynb)|[另一类似代码](https://github.com/PeterSansan/TF_ACTION/blob/master/notes/3_recurrent_network_1.ipynb)：用于MNIST手写识别分类
+- [BiLSTM手写识别](https://github.com/PeterSansan/TF_ACTION/blob/master/notes/3_bidirectional_rnn.ipynb)：用于MNIST手写识别分类
+- [CNN手写识别](https://github.com/PeterSansan/TF_ACTION/blob/master/notes/3_convolutional_network.ipynb)：用于MNIST手写识别分类
+- [自动编码器](https://github.com/PeterSansan/TF_ACTION/blob/master/notes/3_autoencoder.ipynb)：重构手写识别图像，二层自动编码器，非栈式编码器
+- [动态RNN](https://github.com/PeterSansan/TF_ACTION/blob/master/notes/3_dynamic_rnn.ipynb)：用于不定长序列，判断是否为有序数列
 
 ### 章4：通用功能
 
@@ -41,7 +41,7 @@
 值得关注的python几个模块：
 - psutil
 
-感谢：本教程大部分在他人教程的基础上修改，其中包括的[aymericdamien/TensorFlow-Examples](https://github.com/aymericdamien/TensorFlow-Examples)，TensorFlow官网，[adeshpande3/Tensorflow-Programs-and-Tutorials](https://github.com/adeshpande3/Tensorflow-Programs-and-Tutorials)
+感谢：本教程大部分在他人教程的基础上修改，其中包括的[aymericdamien/TensorFlow-Examples](https://github.com/aymericdamien/TensorFlow-Examples)，TensorFlow官网，[adeshpande3/Tensorflow-Programs-and-Tutorials](https://github.com/adeshpande3/Tensorflow-Programs-and-Tutorials),[yongyehuang/Tensorflow-Tutorial](https://github.com/yongyehuang/Tensorflow-Tutorial)s
 
 
 
